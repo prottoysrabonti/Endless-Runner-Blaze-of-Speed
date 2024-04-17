@@ -128,3 +128,19 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+# Node.js dependencies
+/node_modules
+
+# Build output
+/dist
+
+# IDE and editor files
+/.vscode
+/.idea
+
+# macOS metadata
+.DS_Store
+
+# Editor-specific files
+*.sublime-project
+*.sublime-workspace
